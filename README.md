@@ -68,8 +68,8 @@ A server capable of handling multiple clients simultaneously using Java threads.
 
 | Input | Response |
 |---------|---------|
-| Hello World! | But what a generic message... |
-| teste | What exactly do you want to test? |
+| Hello World! | Mas que mensagem generica... |
+| teste | Mas o que exatamente voce quer testar? |
 | SHUTDOWN | Shuts down the server |
 
 ### Concepts Covered
